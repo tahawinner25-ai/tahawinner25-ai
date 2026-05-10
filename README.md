@@ -10,7 +10,6 @@ I don't just use AI; I build the pipelines that power it. Currently focused on z
 - **WWDC 2027**: Preparing the Swift/ARKit spatial projection engine to port my ML models entirely on-device via CoreML.
 
 ### 🏆 Milestones & Achievements
-- **Speaker at Devoxx Morocco (Nov 2026)**: Officially invited as a speaker by Abdelfattah Sghiouar to discuss software architecture and tech.
 - **Full-Stack ML Deployment**: Successfully deploying zero-latency Python backends (FastAPI, Transformers) on Hugging Face Spaces connected to modern React frontends.
 
 ### 💻 Arsenal & Tech Stack
