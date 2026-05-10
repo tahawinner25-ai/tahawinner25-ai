@@ -1,35 +1,21 @@
+# Hi, I'm Taha 👋
 
-# Salut, je suis Taha ! 👋
+**13-year-old AI Architect & Software Engineer | Morocco 🇲🇦**
 
-Je suis un jeune développeur passionné de 13 ans. Mon rêve absolu est de devenir Software Engineer chez Google ou Apple. 🚀
+I don't just use AI; I build the pipelines that power it. Currently focused on zero-latency Machine Learning architectures and EdTech accessibility. I believe in software excellence, logical problem-solving, and building tools that make a real impact.
 
-En ce moment, j'apprends en construisant des vrais projets. J'adore l'Intelligence Artificielle et le développement Web.
+### 🚀 Current Master Plan
+- **Mount AI: Scholar**: Architecting an end-to-end educational platform designed for cognitive accessibility (dyslexia, mapping phonemes to graphemes).
+- **Competitions**: Actively building and deploying full-stack AI applications for Google Cloud & Kaggle Hackathons (Devpost).
+- **WWDC 2027**: Preparing the Swift/ARKit spatial projection engine to port my ML models entirely on-device via CoreML.
 
-### 🛠️ Mes Technologies Préférées
-*   **Front-end :** React, TypeScript, Tailwind CSS
-*   **Back-end :** Firebase (Auth, Firestore)
-*   **Outils :** Git, GitHub, AI Studio
+### 🏆 Milestones & Achievements
+- **Speaker at Devoxx Morocco (Nov 2026)**: Officially invited as a speaker by Abdelfattah Sghiouar to discuss software architecture and tech.
+- **Full-Stack ML Deployment**: Successfully deploying zero-latency Python backends (FastAPI, Transformers) on Hugging Face Spaces connected to modern React frontends.
 
-### 🚀 Mon Projet Principal
-*   **[Mount AI Pro](LIEN_VERS_VOTRE_REPO_MOUNT_AI_PRO)** : Une plateforme d'IA complète avec authentification sécurisée, mode sombre et accès créateur.
+### 💻 Arsenal & Tech Stack
+- **AI & Backend Engine**: Python, FastAPI, Hugging Face (Gemma models), CoreML.
+- **Frontend & Interfaces**: JavaScript/TypeScript, React, Tailwind CSS, Vite.
+- **Workflow**: Training & Inference on Windows -> Porting to the Apple Ecosystem (Swift Playgrounds/iPad).
 
-### 📫 Me Contacter
-Je suis toujours preneur de conseils, de critiques constructives sur mon code, ou de discussions sur la tech !
-*  Voici l url de l app pour tester :"https://mount-ai-pro-755939581161.us-west1.run.app"
-
----
-*"Apprendre en construisant."* 💻
-<!--
-**tahawinner25-ai/tahawinner25-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Building the engine, not just consuming the API."*
