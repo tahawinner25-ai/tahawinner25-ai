@@ -1,8 +1,8 @@
 # Hi, I'm Taha 👋
 
-**13-year-old AI Architect & Software Engineer | Morocco 🇲🇦**
+**13-year-old AI Developper | Morocco 🇲🇦**
 
-I don't just use AI; I build the pipelines that power it. Currently focused on zero-latency Machine Learning architectures and EdTech accessibility. I believe in software excellence, logical problem-solving, and building tools that make a real impact.
+I don't just use AI; I build the pipelines that power it. Currently focused on low-latency Machine Learning architectures and EdTech accessibility. I believe in software excellence, logical problem-solving, and building tools that make a real impact.
 
 ### 🚀 Current Master Plan
 - **Mount AI: Scholar**: Architecting an end-to-end educational platform designed for cognitive accessibility (dyslexia, mapping phonemes to graphemes).
@@ -10,7 +10,7 @@ I don't just use AI; I build the pipelines that power it. Currently focused on z
 - **WWDC 2027**: Preparing the Swift/ARKit spatial projection engine to port my ML models entirely on-device via CoreML.
 
 ### 🏆 Milestones & Achievements
-- **Full-Stack ML Deployment**: Successfully deploying zero-latency Python backends (FastAPI, Transformers) on Hugging Face Spaces connected to modern React frontends.
+- **Full-Stack ML Deployment**: Successfully deploying low-latency Python backends (FastAPI, Transformers) on Hugging Face Spaces connected to modern React frontends.
 
 ### 💻 Arsenal & Tech Stack
 - **AI & Backend Engine**: Python, FastAPI, Hugging Face (Gemma models), CoreML.
